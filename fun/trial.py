@@ -1,4 +1,3 @@
-x = 12
-y = 24 
-x = y + 1
-print(x) 
+x = 7
+print(x)
+print(x ** 2)
